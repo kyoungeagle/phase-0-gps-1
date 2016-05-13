@@ -2,7 +2,8 @@
 
 ![](./bess_frans_paring.png)
 
-something **bold**
+something **bold as eff**
+>>>>>>> small-conflict
 
 something _italic_
 
